@@ -4,6 +4,8 @@ Python script to convert CSV files in SQL statements
 
 ## How to run
 
+*Must be installed dependencies before* 
+
 Into the directory, run:
 
 ```
