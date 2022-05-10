@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# env files
+.env
+
+# generated text files 
+*.txt
